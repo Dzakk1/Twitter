@@ -1,0 +1,64 @@
+.twitter-menu li {
+    border: none;
+    font-size: 14pt;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: -30px;
+}
+
+.twitter-menu li i {
+    width: 30px;
+}
+
+.twitter-menu li a {
+    text-decoration: none;
+    color: black;
+    padding: 15px 20px;
+}
+
+.twitter-menu li a:hover {
+    background-color: rgb(209, 209, 209);
+    border-radius: 50px;
+    padding-left: 30px;
+    padding-right: 30;
+}
+
+.logo-twitter img:hover {
+    background-color: rgb(72, 187, 254);
+    border-radius: 100%;
+    width: 100px;
+}
+
+
+.feeds {
+    border-left: solid 1px #f0f0f0;
+    border-left: solid 1px #f0f0f0;
+}
+
+
+.icons {
+    margin-left: 10px;
+}
+
+.icons i {
+    margin-right: 10px;
+}
+
+
+.profile-button {
+    width: 100;
+    /* height: 60; */
+    margin-top: 30px;
+    margin-left: -16px;
+    padding-top: 10px;
+    padding-left: 20px;
+    border-radius: 50px;
+}
+
+.profile-button:hover{
+    background-color: #f0f0f0;
+}
+
+.profile-button ul {
+    margin-left: -30px;
+}
